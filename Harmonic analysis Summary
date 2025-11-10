@@ -1,0 +1,50 @@
+=== HARMONIC ANALYSIS SUMMARY ===
+Window duration: 100.0 ms
+Step size: 1.0 ms
+Total windows analyzed: 401
+Time range: 0.0500 s to 0.4500 s
+
+--- 1th Harmonic (50 Hz) ---
+Phase A: Mean=3.067486 | Max=3.129649 | Min=2.789505
+Phase B: Mean=2.670520 | Max=2.699440 | Min=2.633572
+Phase C: Mean=1.776466 | Max=1.814292 | Min=1.757572
+
+--- 2th Harmonic (100 Hz) ---
+Phase A: Mean=0.017430 | Max=0.046506 | Min=0.000643
+Phase B: Mean=0.030769 | Max=0.053956 | Min=0.000528
+Phase C: Mean=0.010404 | Max=0.027964 | Min=0.000499
+
+--- 3th Harmonic (150 Hz) ---
+Phase A: Mean=0.031012 | Max=0.048374 | Min=0.011143
+Phase B: Mean=0.020927 | Max=0.050148 | Min=0.000979
+Phase C: Mean=0.014993 | Max=0.029030 | Min=0.000776
+
+--- 4th Harmonic (200 Hz) ---
+Phase A: Mean=0.021164 | Max=0.050144 | Min=0.000117
+Phase B: Mean=0.018349 | Max=0.042393 | Min=0.000626
+Phase C: Mean=0.020113 | Max=0.038884 | Min=0.003246
+
+--- 5th Harmonic (250 Hz) ---
+Phase A: Mean=0.036464 | Max=0.054276 | Min=0.012839
+Phase B: Mean=0.035268 | Max=0.055118 | Min=0.015352
+Phase C: Mean=0.035294 | Max=0.061060 | Min=0.010020
+
+--- 6th Harmonic (300 Hz) ---
+Phase A: Mean=0.021184 | Max=0.051131 | Min=0.002766
+Phase B: Mean=0.016508 | Max=0.037621 | Min=0.001095
+Phase C: Mean=0.013014 | Max=0.028839 | Min=0.001528
+
+--- 7th Harmonic (350 Hz) ---
+Phase A: Mean=0.027877 | Max=0.064554 | Min=0.000533
+Phase B: Mean=0.025867 | Max=0.051063 | Min=0.001285
+Phase C: Mean=0.014850 | Max=0.026745 | Min=0.000570
+
+--- 8th Harmonic (400 Hz) ---
+Phase A: Mean=0.017853 | Max=0.040841 | Min=0.000494
+Phase B: Mean=0.017182 | Max=0.044743 | Min=0.001796
+Phase C: Mean=0.012862 | Max=0.032410 | Min=0.000567
+
+--- 9th Harmonic (450 Hz) ---
+Phase A: Mean=0.032599 | Max=0.056690 | Min=0.003411
+Phase B: Mean=0.030796 | Max=0.056683 | Min=0.002037
+Phase C: Mean=0.015418 | Max=0.029955 | Min=0.000520

@@ -327,10 +327,10 @@ This project is licensed under the **MIT License** - see `LICENSE` file for deta
 
 ## 👤 Author
 
-**Your Name**  
+**Ashish Kumar Jangid**  
 Electrical Engineering Student | NIT Raipur  
 Email: your.email@nit-raipur.ac.in  
-GitHub: [@YourUsername](https://github.com/YourUsername)
+GitHub: [@ashishair](https://github.com/YourUsername)
 
 ### Project Links
 - 📂 Repository: [smart-meter-fault-detection](https://github.com/YourUsername/smart-meter-fault-detection)
@@ -341,19 +341,10 @@ GitHub: [@YourUsername](https://github.com/YourUsername)
 
 ## 🙏 Acknowledgments
 
-- **Advisors & Mentors**: [Mention if applicable]
+- **Advisors & Mentors**: [Dr. Monalisa Biswal]
 - **Institute**: NIT Raipur, Electrical Engineering Department
 - **Data Source**: Laterite fault testing lab
 - **Tools**: MATLAB, GitHub, Markdown
-
----
-
-## 📧 Contact & Support
-
-For questions, issues, or collaborations:
-- **Open an Issue**: [GitHub Issues](https://github.com/YourUsername/smart-meter-fault-detection/issues)
-- **Email**: your.email@nit-raipur.ac.in
-- **LinkedIn**: [Your LinkedIn Profile]
 
 ---
 
